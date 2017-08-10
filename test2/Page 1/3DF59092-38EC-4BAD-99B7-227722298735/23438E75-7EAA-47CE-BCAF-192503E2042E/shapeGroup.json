@@ -16,8 +16,8 @@
     "constrainProportions": true,
     "height": 266,
     "width": 266,
-    "x": -100,
-    "y": 332
+    "x": 166,
+    "y": 166
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -56,6 +56,11 @@
         "thickness": 1
       }
     ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4000000059604645
+    },
     "endDecorationType": 0,
     "fills": [
       {
