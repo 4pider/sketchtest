@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "E0239A21-8C43-417A-A13D-9756A436609C",
+  "do_objectID": "9998DD61-A5E9-41DC-A64D-D2E6319CC841",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
     "height": 213,
     "width": 213,
     "x": 81,
-    "y": 107
+    "y": 369
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "oval",
-      "id": "955A617C-1327-4E7A-A63E-AC5D09BDA261"
+      "id": "91E0B98D-B322-4899-B184-90BD46F40F5D"
     }
   ],
-  "name": "Oval",
+  "name": "Oval Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5645461309523809,
-          "green": 0.2959793131337061,
-          "red": 0.1476409310271615
+          "blue": 0.1967740221088435,
+          "green": 0.1967740221088435,
+          "red": 0.1967740221088435
         },
         "fillType": 0,
         "isEnabled": true,
