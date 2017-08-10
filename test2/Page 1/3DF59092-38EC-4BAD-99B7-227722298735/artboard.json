@@ -39,19 +39,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "D5FE4C02-E9C8-4675-925A-0538D140808B"
+      "id": "FD83B487-B135-4F70-B053-745EBD464EEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23438E75-7EAA-47CE-BCAF-192503E2042E"
     },
     {
       "class": "shapeGroup",
       "id": "BF040C0E-4B2A-4A43-A7F8-3224EE3D7D39"
     },
     {
-      "class": "shapeGroup",
-      "id": "984AF7AA-ABAA-423F-A5A4-3991EA426407"
+      "class": "group",
+      "id": "A7192797-CE40-4F86-BF1A-01BD4022C555"
     }
   ],
   "name": "Artboard",

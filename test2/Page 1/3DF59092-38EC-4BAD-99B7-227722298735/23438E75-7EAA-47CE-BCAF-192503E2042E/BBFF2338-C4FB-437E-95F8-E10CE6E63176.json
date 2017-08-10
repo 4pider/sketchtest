@@ -1,7 +1,7 @@
 {
   "_class": "oval",
   "booleanOperation": -1,
-  "do_objectID": "5D58E86A-95CE-4741-A784-54C128829DCD",
+  "do_objectID": "BBFF2338-C4FB-437E-95F8-E10CE6E63176",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 381,
-    "width": 381,
+    "height": 266,
+    "width": 266,
     "x": 0,
     "y": 0
   },
