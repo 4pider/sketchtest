@@ -3,11 +3,11 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.6321196122602983,
-    "green": 0.7748937468581828,
-    "red": 0.8969759778911565
+    "blue": 0.6701477465986394,
+    "green": 0.6701477465986394,
+    "red": 0.6701477465986394
   },
-  "do_objectID": "FC24C7F9-55F2-4F3A-B114-B0B6593564FD",
+  "do_objectID": "5501AE12-51B1-4393-935D-3708DBD01F33",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 430,
+    "x": 905,
     "y": 248
   },
   "hasBackgroundColor": true,
@@ -43,14 +43,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E0239A21-8C43-417A-A13D-9756A436609C"
+      "id": "E2FC06F5-F55D-480F-9555-5B7E559BDD50"
     },
     {
       "class": "text",
-      "id": "F66FB495-F3E4-4C93-9B8B-B9AE1A933A8C"
+      "id": "E8D1A27E-2181-4ED3-B050-A6D55B490059"
     }
   ],
-  "name": "index",
+  "name": "index2",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
